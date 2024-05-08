@@ -1,0 +1,35 @@
+{
+  "name": "student-management",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify-json/material-symbols": "^1.1.71",
+    "@unocss/preset-icons": "^0.58.4",
+    "@unocss/reset": "^0.58.4",
+    "@unocss/transformer-directives": "^0.58.4",
+    "@vicons/material": "^0.12.0",
+    "@zxing/library": "^0.21.0",
+    "axios": "^1.6.7",
+    "element-plus": "^2.7.2",
+    "naive-ui": "^2.37.3",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "unocss": "^0.58.4",
+    "unplugin-auto-import": "^0.17.5",
+    "unplugin-vue-components": "^0.26.0",
+    "vue": "^3.3.11",
+    "vue-qrcode-reader": "^5.5.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.8"
+  }
+}
